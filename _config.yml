@@ -1,4 +1,3 @@
-layout_spectrum: 0.634625215549022
 typography_spectrum: 0.1360332197509706
 color:
   brandStrength: 0.8334426824003458
@@ -11,5 +10,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.634625215549022
 name: Elearning Laboratory
+navigation:
+  - name: Facebook
+    id: 2347d6b4-e8ec-4cc4-ba6d-cdeb4e4a033e
+    type: content
 title: Better by design
