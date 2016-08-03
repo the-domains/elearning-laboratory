@@ -12,8 +12,5 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.634625215549022
 name: Elearning Laboratory
-navigation:
-  - name: Facebook
-    id: 2347d6b4-e8ec-4cc4-ba6d-cdeb4e4a033e
-    type: content
+navigation: []
 title: Better by design
