@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Better by design]]></title>
         <description><![CDATA[Better by design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elearning-laboratory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:54:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 17:56:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elearning-laboratory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>This is about us</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49beace-1a3b-40fc-b1af-f6ab260b9468.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49beace-1a3b-40fc-b1af-f6ab260b9468.jpg</link>
+            <guid isPermaLink="false">2cde274c-09b0-4c5f-b321-ed122fb65988</guid>
+            <pubDate>Wed, 03 Aug 2016 17:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd3d8dd5-d6a9-4492-a2d9-ffbb01c30c33.jpg">]]></description>
